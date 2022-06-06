@@ -1,0 +1,30 @@
+.ScoreTable {
+  position: absolute;
+  height: 93%;
+  top: 1%;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.1rem;
+  width: 40%;
+  background-color: white;
+  padding: 1em;
+}
+
+.ScoreTable table {
+  width: 100%;
+  margin: 0 auto;
+  min-width: 400px;
+}
+
+.ScoreTable-section {
+  vertical-align: top;
+  width: 100%;
+}
+
+.total-score {
+  font-weight: 100;
+  font-size: 2em;
+  border-bottom: 2px solid purple;
+  display: inline-block;
+}
