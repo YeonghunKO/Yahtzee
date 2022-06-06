@@ -1,6 +1,8 @@
 # Yahtzee
 [![Netlify Status](https://api.netlify.com/api/v1/badges/808c7331-83de-4e2f-82e1-490f7d0fcb3b/deploy-status)](https://app.netlify.com/sites/nostalgic-davinci-958000/deploys)
 
+![yatzhee](https://images.velog.io/images/yhko1992/post/fae9ecf9-45a8-42ed-ab02-8c12d89e9170/yazthzee.gif)
+
 # 프로젝트의 목적
 유데미에서 yahtzee 라는 게임을 만들어보았다.
 주사위를 돌리고나서 나온 숫자를 보고 스코어에 해당하는 점수를 클릭한다.
@@ -9,7 +11,7 @@
 
 리액트도 배울 뿐 아니라 아니라 로직을 짜는 연습도 확실히 되었다!
 
-[DEMO는 여기로!](https://movie-app-vanila-js.netlify.app)
+[요기서 플레이 가능!](https://yahtzee-completed.netlify.app/)
 
 # 배운점
 
